@@ -1,3 +1,7 @@
 body {
  background-image: url("https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg?w=2000");
 }
+
+h1 {
+  border: border: thick double #32a1ce;
+}
