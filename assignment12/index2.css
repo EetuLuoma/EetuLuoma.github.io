@@ -3,7 +3,6 @@
       box-sizing: border-box;
     }
 
-    /* CSS for header */
     .header {
       display: flex;
       justify-content: space-between;
@@ -33,7 +32,6 @@
       padding: 35px 20px;
     }
 
-    /* CSS for main element */
     .intro {
       display: flex;
       flex-direction: column;
